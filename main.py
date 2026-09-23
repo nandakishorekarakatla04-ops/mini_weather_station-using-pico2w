@@ -2,7 +2,7 @@ from machine import Pin, I2C, ADC
 from time import sleep
 import dht
 import bmp280
-hello
+
 # ==========================================
 # DHT22
 # DATA -> GP2, Physical Pin 4
