@@ -1,4 +1,3 @@
-# mini_weather_station-using-pico2w
 # Mini Weather Station Using Raspberry Pi Pico 2 W
 
 ## 📌 Project Description
